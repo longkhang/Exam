@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Đh</title>
+<link href="index.css" rel="stylesheet"/>
+</head>
+
+<body>
+<h1>
+
+<a href="menu.html">Trang chủ</a>
+<a href="menu2.html">Mua & Bán</a>
+<a href="https://www.facebook.com/profile.php?id=100008470036294">Liên hệ</a>
+<a href="menu4.html">Trợ giúp</a>
+</h1>
+<h2 align="center"><dd>Đặt mua hàng tai địa chỉ:</dd></h2>
+<p>Tp.HCM 176 Lê Văn Sỷ,P. quận Phú Nhuận ĐT: 0987474918</p>
+<p>Hội An 424 Hùng Vương, Hội An,Quảng Nam ĐT: 0905223659</p>
+<h2 align="center"> Hoặc liên hệ online:</h2>
+<p>Email: Support@denlong.com</p>
+<p>Email: Sale@denlong.com</p>
+<hr/>
+<h5>
+<div class="end">
+Liên hệ facebook:<a href="https://www.facebook.com/profile.php?id=100008470036294">Long  Khang</a>
+Liên hệ gmail: <a href="https://plus.google.com/u/1/114781645646653494306">nhoxshi313@gmail.com</a>
+</div>
+</h5>
+<p></p>
+</body>
+</html>
